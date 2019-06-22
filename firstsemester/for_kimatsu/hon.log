@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2016/Debian) (preloaded format=platex 2019.6.7)  22 JUN 2019 13:37
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2016/Debian) (preloaded format=platex 2019.6.7)  22 JUN 2019 13:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -60,8 +60,7 @@ LaTeX Info: Redefining \LaTeX on input line 147.
 LaTeX Info: Redefining \LaTeXe on input line 200.
 )
 \heisei=\count90
-)
-No file hon.aux.
+) (./hon.aux)
 \openout1 = `hon.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -108,17 +107,20 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 22.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 (Font)              scaled to size 9.60999pt on input line 22.
+
 [1
 
 
+] [2
+
 ] (./hon.aux) ) 
 Here is how much of TeX's memory you used:
- 444 strings out of 493671
- 4709 string characters out of 6151188
- 66080 words of memory out of 5000000
+ 446 strings out of 493671
+ 4725 string characters out of 6151188
+ 67080 words of memory out of 5000000
  4092 multiletter control sequences out of 15000+600000
  10313 words of font info for 47 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 24i,4n,24p,172b,216s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 24i,4n,24p,172b,248s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on hon.dvi (1 page, 1936 bytes).
+Output written on hon.dvi (2 pages, 2528 bytes).
