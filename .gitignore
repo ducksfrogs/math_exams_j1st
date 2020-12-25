@@ -36,8 +36,6 @@ src
 
 *.swp
 *.map
-.idea/
-Read the Docs
 config.rst
 *.iml
 /.project
@@ -45,5 +43,3 @@ config.rst
 
 package-lock.json
 geckodriver.log
-*.iml
-*.png
