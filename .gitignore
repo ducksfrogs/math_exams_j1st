@@ -19,6 +19,7 @@ notebook/static/*/built/
 notebook/static/built/
 notebook/static/*/js/main.min.js*
 notebook/static/lab/*bundle.js
+.virtual_documents/
 node_modules
 *.py[co]
 __pycache__
